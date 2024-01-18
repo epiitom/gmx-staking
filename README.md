@@ -1,2 +1,2 @@
 # gmx-staking
-Creating staking function just like gmx dex has 
+All major staking and tokens contracts has been included in this repository
